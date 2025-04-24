@@ -1,0 +1,49 @@
+
+#cd downloads => بعد ما اكتب هيدا بصير بقلب ل downloads
+
+#mkdir libanux-website => هيك عملت folder جديد
+
+#cd libanux-website => 
+
+#git init =>عملت repository جديد وصار فيني ضيف  ملفات واعمل تعديلات
+
+#notepad README.md =>علمت filleبل notepad وفتحنا
+
+#notepad index.html =>علمت filleبل notepad وفتحنا
+
+#git add . =>هيك عم ضيف الملفات الجديده
+
+#git commit -m "chore: initial website structure with README and index.html" => لحتى نثبت التعديلات مع رساله توضيحية
+
+#git remote add origin https://github.com/KhadijaShames/libanux-website-git-github-task.gi => عم اربط ل git بل githup وبس اعملو بيصير فيني استخدم لgit pull w git push
+
+#git branch -M main => إعادة التسمية الى main
+
+#git push -u origin main => انا عم قول ل git خود كل التغيرات هلي عملتها بmain وارفعها على github
+
+#notepad commands.txt => 
+
+#notepad libanux.html => 
+
+#git add libanux.html =>
+
+#git commit -m "feat: add libanux.html with logo and company name" =>
+
+#git push origin main => 
+
+#git pull origin main => جيب كل التعديلات الجديدة هلي صارت على main منgithup وحطها عندي
+
+#git pull origin main --no-edit => عم جيب كل التغيرات الجديدة من main على github  وبحطها عندي مكان ما عم اشتغل حاليا بس بدون ما يفتحلي ل notepad مثلا
+
+#git push origin main =>
+
+#git add logo.png => 
+
+#git commit -m "add: logo image for libanux website" =>
+
+#git push origin main => 
+
+#git add commands.txt => 
+#git commit -m "docs: add commands.txt with Git command history" =>
+
+#git push origin main =>
